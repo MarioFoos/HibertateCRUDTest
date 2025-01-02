@@ -1,2 +1,2 @@
-# HibertateCRUDTest
-Ejemplo CRUD con Hibernate
+Ejemplo CRUD con Hibernate y SQLite
+
